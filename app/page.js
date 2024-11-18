@@ -50,7 +50,7 @@ export default function Home() {
                 <h1 className="text-4xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-6xl font-Lamiran">AlpineLicht</h1>
               </div>
 
-              <div className="flex items-center justify-center px-2">
+              <div className="h-full flex items-center justify-center px-2">
                 <h1 className="text-3xl sm:text-3xl md:text-5xl lg:text-6xl xl:text-6xl  text-center tracking-wide leading-relaxed ">
                   {item.tagline}
                 </h1>
