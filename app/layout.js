@@ -14,9 +14,8 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "AlpineLicht",
-  description: "",
-};
-
+  description: "Premium Clothing for the Modern Youth | Luxury Fashion for Men & WomenDiscover AlpineLicht, a premium clothing brand offering timeless, stylish apparel for the modern youth. Shop high-quality men's and women's fashion, designed for comfort and sophistication. Explore. Conquer. Express your unique style with confidence.",
+}
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
