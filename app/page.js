@@ -26,9 +26,9 @@ export default function Home() {
         <meta property="og:url" content="https://www.alpinelicht.com" />
         <meta property="og:type" content="website" />
       </Head>
-      <div className="h-screen overflow-y-scroll snap-y snap-mandatory transition-all ease-in-out ">
+      <div className="h-svh overflow-y-scroll snap-y snap-mandatory transition-all ease-in-out ">
 
-        <div className={`  h-screen flex items-center justify-center font-prociono text-[#161616] bg-[#fff7e9] snap-start`}>
+        <div className={`  h-svh flex items-center justify-center font-prociono text-[#161616] bg-[#fff7e9] snap-start`}>
           <div className=" h-full w-11/12  grid grid-cols-1 grid-rows-3  tracking-widest">
             <div className="py-12 flex items-start justify-end ">
             </div>
